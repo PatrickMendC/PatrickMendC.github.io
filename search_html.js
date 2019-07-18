@@ -12,16 +12,22 @@ const options = {
 }
 
 function processarDados(dados){
-    console.log(JSON.stringify(dados))
+    //console.log(JSON.stringify(dados))
     
     
-    fs.readFile('rss.json', 'utf8', function readFileCallback(err, dados){
-        if (err){
-            console.log(err);
-        } else {
-            var json = JSON.stringify(dados);
-            fs.writeFile('rss.json', json, 'utf8', callback);
+    //fs.readFile('rss.json', 'utf8', function readFileCallback(err, dados){
+    //    if (err){
+    //        console.log(err);
+    //    } else {
+    //        var json = JSON.stringify(dados);
+    //        fs.writeFile('rss.json', json, 'utf8', callback);
+    //    }
+    //})
+    fs.writeFile("rss.json", dados, function(err) {
+        if(err) {
+            return console.log(err);
         }
+        console.log("Arquivo salvo com sucesso!");
     })
 }
 
@@ -40,7 +46,7 @@ rp(options)
                 titles.push(title)
         })
 
-        processarDados(titles)
+        processarDados(JSON.stringify(titles))
     })
     .catch((err) => {
         console.log(err);
