@@ -37,7 +37,9 @@ const feed = new Feed({
 console.log(feed.rss2());
 
 function processarDados(dados){
-    console.log("Dados:"+dados)
+  var time = new Date(dados[1])
+    console.log("Dados:"+time)
+    
     //var teste = [2,4,6]
     dados.forEach(d => {
         feed.addItem({
@@ -60,7 +62,7 @@ function processarDados(dados){
               link: "https://example.com/shawnkemp"
             }
           ],
-          date: d.date,
+          date: new Date(d.date),
           image: d.img+" type='image/jpeg'"
         });
       });
@@ -81,7 +83,7 @@ function processarDados(dados){
             return console.log(err);
         }
         console.log("Arquivo xml salvo com sucesso!");
-        console.log(feed.rss2());
+        //console.log(feed.rss2());
     })
 
     fs.writeFile("rss.json", JSON.stringify(dados), function(err) {
@@ -101,9 +103,11 @@ rp(options)
             const title = {
                 nome: $(item).find('.tileHeadline').text(),
                 descricao: $(item).find('.description').text(),
-                img: $(item).find('.tileImage').children('img').eq(0).attr('src')
+                img: $(item).find('.tileImage').children('img').eq(0).attr('src'),
+                //date: $(item).find('.documentByLine, <i>').children('.summary-view-icon').text()
+                date: $(item).find('.summary-view-icon').children().first().text()
             }
-
+            console.log("Formato data: "+title.date)
             if(title.nome !== "")
                 titles.push(title)
         })

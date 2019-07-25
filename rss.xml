@@ -17,8 +17,27 @@
         <atom:link href="https://example.com/atom" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[
+                                        II Seminário de Educação Profissional e Tecnológica será realizado em agosto
+                                    ]]></title>
+            <pubDate>Invalid Date</pubDate>
+            <description><![CDATA[Evento marca o início das atividades da segunda turma do mestrado profissional oferecido pelo IFMS, em Campo Grande. Inscrições são gratuitas e devem ser feitas até 4 de agosto.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/ii-seminario-de-educacao-profissional-e-tecnologica-sera-realizado-em-agosto/07-17-2019-matiiseminario_ept.png/@@images/bfbf5ec3-1abf-4d55-b6c4-1b06d6a5e377.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        Aberta seleção com oito vagas para professor substituto
+                                    ]]></title>
+            <pubDate>Invalid Date</pubDate>
+            <description><![CDATA[São oferecidas vagas em diferentes áreas nos municípios de Aquidauana, Coxim, Dourados, Jardim, Naviraí, Nova Andradina e Ponta Porã. Inscrições até 28 de julho.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/aberta-selecao-com-oito-vagas-para-professor-substituto/mat-2018-professor-substituto.png/@@images/763f1566-ba67-4e09-983e-3878035dd526.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
                                         Divulgados resultados de sorteio para qualificação profissional e idiomas
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Resultado preliminar traz a classificação de todos os inscritos. O resultado final e a primeira chamada estão previstos para segunda-feira, 22.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgados-resultados-de-sorteio-para-cursos-de-qualificacao-profissional-e-idiomas/06-12-2019-mat-2019-2-todos-cursos-fic.png/@@images/6df27b33-1fda-48fd-b2f3-9582b7384b77.png type='image/jpeg'"/>
@@ -27,6 +46,7 @@
             <title><![CDATA[
                                         IFMS contribui para difusão da ciência e tecnologia no estado
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Número de trabalhos apresentados em feiras aumentou 18,5% no ano passado. Ampliadas também as quantidades de bolsas e de registros de propriedade intelectual, aponta Relatório de Gestão 2018.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="undefined type='image/jpeg'"/>
@@ -35,6 +55,7 @@
             <title><![CDATA[
                                         IFMS leva minicursos e seminário à reunião da SBPC
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Programação prevê minicursos sobre impressão 3D e empreendedorismo. Abertura da 71ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência será no domingo, 21, na UFMS.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/ifms-leva-minicursos-e-seminario-a-reuniao-da-sbpc/07-17-2019-sbpc-materia.png/@@images/c5b01658-e4ab-4136-8137-718fa83e5d06.png type='image/jpeg'"/>
@@ -43,6 +64,7 @@
             <title><![CDATA[
                                         Publicadas listas de inscritos para cursos de especialização
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Cursos serão ofertados em Aquidauana, Campo Grande, Corumbá e Coxim. Seleção será feita por sorteio eletrônico até 25 de julho.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/publicadas-listas-de-inscritos-para-cursos-de-especializacao/07-03-2019-materia-especializacao-cursos.png/@@images/fae3b296-3d15-4c24-8c53-cb3ef40672ac.png type='image/jpeg'"/>
@@ -51,6 +73,7 @@
             <title><![CDATA[
                                         IFMS executou 99,9% do orçamento previsto para 2018
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Além dos R$ 30,8 milhões discricionários previstos na LOA 2018, o IFMS executou outros R$ 16,4 milhões obtidos via Termo de Execução Descentralizada.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="undefined type='image/jpeg'"/>
@@ -59,14 +82,16 @@
             <title><![CDATA[
                                         Aberto período de rematrícula para segundo semestre
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Pela primeira vez, rematrícula é feita de forma online no Campus Campo Grande. Nos demais campi, os estudantes devem se matricular presencialmente para o segundo semestre.]]></description>
             <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/aberto-periodo-de-rematricula-para-segundo-semestre/mat_rematricula.png/@@images/6c87304f-6a29-4ef7-816b-2936d6235f6c.png type='image/jpeg'"/>
+            <enclosure url="http://www.ifms.edu.br/noticias/aberto-periodo-de-rematricula-para-segundo-semestre/mat_rematricula.png/@@images/79fd86f4-5bd5-45f8-9703-5c445a25e88a.png type='image/jpeg'"/>
         </item>
         <item>
             <title><![CDATA[
                                         Divulgadas normas para escolha de comissões eleitorais locais
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Servidores e estudantes escolhidos por seus pares irão conduzir processo de consulta para os cargos de reitor e diretor-geral dos dez campi do IFMS.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgadas-normas-para-escolha-de-comissoes-eleitorais/07-12-2019-eleicoes-2019.png/@@images/101aa14b-ed11-4d17-afa7-cf634fab8c5d.png type='image/jpeg'"/>
@@ -75,6 +100,7 @@
             <title><![CDATA[
                                         Abertas inscrições para Feiras de Ciência e Tecnologia do IFMS
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Podem inscrever trabalhos estudantes do ensino fundamental, médio e técnico integrado - de escolas públicas e privadas - de dez municípios. Eventos serão realizados em outubro.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/abertas-inscricoes-para-feiras-de-ciencia-e-tecnologia-do-ifms/feiras-de-ciencia-2019.png/@@images/c120bcc3-67a5-40aa-9c22-ea01c0186313.png type='image/jpeg'"/>
@@ -83,6 +109,7 @@
             <title><![CDATA[
                                         Divulgada chamada para vagas remanescentes do Sisu
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Convocados devem comparecer aos campi Campo Grande e Corumbá do IFMS nesta sexta-feira, 12, para fazer a matrícula ou manifestar interesse na vaga.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgada-chamada-para-vagas-remanescentes-do-sisu/graduacao-generica.png/@@images/1541ddf8-6d87-46f1-a983-cace354819f0.png type='image/jpeg'"/>
@@ -91,6 +118,7 @@
             <title><![CDATA[
                                         Inscrições para feiras científicas do IFMS começam na segunda-feira
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Eventos serão realizados em outubro, durante a Semana de Ciência e Tecnologia. Podem inscrever trabalhos estudantes do ensino fundamental, médio e técnico integrado.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/inscricoes-para-feiras-cientificas-do-ifms-comecam-na-segunda-feira/feiras-de-ciencia-2019.png/@@images/49166456-08f2-43d4-a8c7-df6aaaa3fc5c.png type='image/jpeg'"/>
@@ -99,6 +127,7 @@
             <title><![CDATA[
                                         IFMS amplia número de acordos de cooperação técnica e de estágio em 2018
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Dados disponibilizados no Relatório de Gestão 2018 revelam aumento significativo do número de ações de integração do IFMS com setores da sociedade no ano passado.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="undefined type='image/jpeg'"/>
@@ -107,6 +136,7 @@
             <title><![CDATA[
                                         Convocados candidatos para matrícula em cursos técnicos de jovens e adultos
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Matrícula deve ser feita nesta quinta e sexta-feira, 11 e 12, na Central de Relacionamento (Cerel) dos campi onde as vagas foram ofertadas.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/convocados-candidatos-para-matricula-em-cursos-tecnicos-de-jovens-e-adultos/06-18-2019-mat-cursos-subsequentes-proeja-2019-2.png/@@images/764b2716-5d35-47f5-9451-8fd06924629d.png type='image/jpeg'"/>
@@ -115,6 +145,7 @@
             <title><![CDATA[
                                         Divulgado resultado de seleção para vagas remanescentes do Sisu
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Previsão é que chamada presencial seja publicada na sexta-feira, 12. São ofertadas 37 vagas para cursos superiores de tecnologia em Campo Grande e Corumbá.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgado-resultado-de-selecao-para-vagas-remanescentes-do-sisu/sisu-2019-2.png/@@images/75a2ec58-313c-4ae5-8f2c-597cb4019430.png type='image/jpeg'"/>
@@ -123,6 +154,7 @@
             <title><![CDATA[
                                         IFMS apresenta necessidades de custeio e investimento para 2º semestre
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Diante da continuidade do bloqueio de crédito orçamentário, instituição apresentou ao MEC estudo de gestão orçamentária para que mantenha as atividades até o fim de 2019.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="undefined type='image/jpeg'"/>
@@ -131,6 +163,7 @@
             <title><![CDATA[
                                         Inscrições em cursos de qualificação profissional vão até domingo
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[São ofertadas 635 vagas em nove municípios, nas modalidades presencial e a distância. Cursos têm duração de quatro meses e capacitam para o mercado de trabalho.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/inscricoes-em-cursos-de-qualificacao-profissional-vao-ate-domingo/07-09-2019-mat-fic.png/@@images/532035b9-4e01-48e6-9170-eac1f19068d3.png type='image/jpeg'"/>
@@ -139,6 +172,7 @@
             <title><![CDATA[
                                         Divulgado resultado preliminar de concurso para professor
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Mais de 2,6 mil candidatos concorreram a 18 vagas em sete áreas. Previsão é que resultado final seja publicado no dia 15 de julho.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgado-resultado-de-concurso-para-professor/2d5a9bde-1103-40e9-b00a-476b142eda97.png/@@images/82d03e4b-19ec-4944-bd9f-87a388dd3ea9.png type='image/jpeg'"/>
@@ -147,6 +181,7 @@
             <title><![CDATA[
                                         IFMS amplia atendimento a estudantes de baixa renda em 2018
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Esse é um dos indicadores de ensino da instituição que apresentaram melhora no ano passado. Os dados estão disponibilizados no Relatório de Gestão 2018.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="undefined type='image/jpeg'"/>
@@ -155,6 +190,7 @@
             <title><![CDATA[
                                         Divulgada convocação para portadores de diploma e transferências
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Candidatos convocados deverão fazer a matrícula nesta terça e quarta-feira, 9 e 10, nos campi do IFMS onde foram ofertadas vagas em cursos de graduação.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgada-convocacao-para-portadores-de-diploma-e-transferencias/06-12-2019-materia-portador-de-diploma.png/@@images/f51f241a-bc59-4834-ba0a-5aecb939acb5.png type='image/jpeg'"/>
@@ -163,6 +199,7 @@
             <title><![CDATA[
                                         Divulgado resultado de seleção para estágio em Portugal
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[São ofertadas 13 vagas para estágio no Instituto Politécnico de Bragança (IPB). Resultado final será divulgado no dia 11 de julho.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgado-resultado-de-selecao-para-estagio-em-portugal/06-18-2019-mat-extensao-estagio-internacional.png/@@images/3dc6c62e-9a26-43eb-a294-6f3295e4dc70.png type='image/jpeg'"/>
@@ -171,6 +208,7 @@
             <title><![CDATA[
                                         Jovens e adultos são sorteados para vagas em cursos técnicos
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[São ofertadas 200 vagas para cursos em Aquidauana, Corumbá, Coxim e Jardim. O resultado final e a primeira chamada serão divulgados na terça-feira, 9.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/jovens-e-adultos-sao-sorteados-para-vagas-em-cursos-tecnicos/05-27-2019-mat-cursos-subsequentes-proeja-2019-2.png/@@images/1a4f581a-cfca-4e72-bd30-320bb76437e8.png type='image/jpeg'"/>
@@ -179,6 +217,7 @@
             <title><![CDATA[
                                         Divulgados nomes de eleitos para Conselho de Ensino, Pesquisa e Extensão
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Foram escolhidos 15 membros titulares, sendo 11 docentes, dois técnicos-administrativos e dois estudantes. O mandato é de dois anos.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgados-nomes-de-eleitos-para-o-conselho-de-ensino-pesquisa-e-extensao/coepe.png/@@images/9348308a-57a9-4de4-9ea4-2c0200dad51c.png type='image/jpeg'"/>
@@ -187,6 +226,7 @@
             <title><![CDATA[
                                         Candidatos são convocados para provas de nivelamento
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Teste, obrigatório para ingresso em cursos de Espanhol, Inglês e Libras já em andamento no IFMS, será aplicado em Campo Grande, Corumbá, Coxim e Três Lagoas.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/candidatos-sao-convocados-para-provas-de-nivelamento/06-26-2019-cursos-fic-idiomas.png/@@images/2522c882-2e31-4cc6-a1c8-7b0500c70601.png type='image/jpeg'"/>
@@ -195,6 +235,7 @@
             <title><![CDATA[
                                         Divulgada primeira chamada para cursos técnicos subsequentes
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Os candidatos convocados devem se matricular na segunda-feira, 8. Foram oferecidas 160 vagas em Aquidauana, Coxim e Dourados.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgada-primeira-chamada-para-cursos-tecnicos-subsequentes/06-28-2019-mat-cursos-subsequentes-2019-2.png/@@images/7b5ec9fb-8eb0-4734-939f-29dbb942f33a.png type='image/jpeg'"/>
@@ -203,6 +244,7 @@
             <title><![CDATA[
                                         Últimos dias de inscrições para cursos de especialização
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Vagas são para curso voltado às Ciências da Natureza e Matemática e para especialização em Docência para Educação Profissional, Científica e Tecnológica. Inscrições até 10 de julho.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/ultimos-dias-de-inscricoes-para-cursos-de-especializacao/07-03-2019-materia-especializacao-cursos.png/@@images/1be43c5f-686c-47c3-8875-46d78283b701.png type='image/jpeg'"/>
@@ -211,6 +253,7 @@
             <title><![CDATA[
                                         Publicado resultado de seleção para portadores de diploma e transferências
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Previsão é que resultado final seja divulgado na sexta-feira, 5. Matrículas deverão ser feitas nos dias 9 e 10.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/publicado-resultado-de-selecao-para-portadores-de-diploma-e-transferencias/06-12-2019-materia-portador-de-diploma.png/@@images/43525713-0a38-42d6-bb94-e644cc89f2a9.png type='image/jpeg'"/>
@@ -219,6 +262,7 @@
             <title><![CDATA[
                                         Projetos aprovados envolvem cerca de 500 estudantes na iniciação científica
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Foram selecionadas 211 propostas de projetos de pesquisa. Previsão é de que 218 estudantes, dos dez campi, recebam bolsas de iniciação científica.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/projetos-aprovados-envolvem-cerca-de-500-estudantes-na-iniciacao-cientifica/337a4866-be03-4cfb-8623-3ae465b4aa3d.png/@@images/a740f758-0309-4bcc-af13-94392b3e5d5e.png type='image/jpeg'"/>
@@ -227,6 +271,7 @@
             <title><![CDATA[
                                         Abertas inscrições para vagas remanescentes do Sisu
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[São ofertadas 37 vagas para cursos superiores de tecnologia em Campo Grande e Corumbá.  As inscrições vão até 8 de julho.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/abertas-inscricoes-para-vagas-remanescentes-do-sisu-1/sisu-2019-2.png/@@images/e5c8cec7-0d89-44b0-acab-27612ab35ad0.png type='image/jpeg'"/>
@@ -235,25 +280,10 @@
             <title><![CDATA[
                                         Divulgado resultado de sorteio para cursos técnicos subsequentes
                                     ]]></title>
+            <pubDate>Invalid Date</pubDate>
             <description><![CDATA[Lista traz a classificação de todos os candidatos inscritos. Resultado final e primeira chamada serão divulgados na quarta-feira, 3.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/divulgado-resultado-de-sorteio-para-cursos-tecnicos-subsequentes/06-28-2019-mat-cursos-subsequentes-2019-2.png/@@images/3f846339-d06a-4150-9567-fc59161e53ed.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Inscrições para estágio em Portugal podem ser feitas até terça-feira
-                                    ]]></title>
-            <description><![CDATA[São ofertadas 13 vagas para estágio no Instituto Politécnico de Bragança (IPB). Estudantes dos dez campi podem participar da seleção.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/inscricoes-para-estagio-em-portugal-podem-ser-feitas-ate-terca-feira/06-18-2019-mat-extensao-estagio-internacional.png/@@images/8cadaea9-823a-488c-818a-42e1ad245fb8.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Inscrições para vagas de professor substituto terminam no domingo
-                                    ]]></title>
-            <description><![CDATA[São ofertadas cinco vagas em diferentes áreas para Campo Grande, Corumbá, Coxim, Jardim e Naviraí.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/inscricoes-para-vagas-de-professor-substituto-terminam-no-domingo/professor-substituto-generico.png/@@images/9a5986ae-ec08-46c4-9b28-eec3ce1f54b1.png type='image/jpeg'"/>
         </item>
     </channel>
 </rss>
