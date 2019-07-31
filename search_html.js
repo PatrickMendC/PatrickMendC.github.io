@@ -105,7 +105,7 @@ rp(options)
                 descricao: $(item).find('.description').text(),
                 img: $(item).find('.tileImage').children('img').eq(0).attr('src'),
                 //date: $(item).find('.documentByLine, <i>').children('.summary-view-icon').text()
-                date: $(item).find('.summary-view-icon').children().first().text()
+                date: $(item).find('.summary-view-icon').first().text()
             }
             console.log("Formato data: "+title.date)
             if(title.nome !== "")
