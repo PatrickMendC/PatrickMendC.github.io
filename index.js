@@ -37,10 +37,7 @@ const feed = new Feed({
 console.log(feed.rss2());
 
 function processarDados(dados){
-  var time = new Date(dados[1])
-    console.log("Dados:"+time)
     
-    //var teste = [2,4,6]
     dados.forEach(d => {
         feed.addItem({
           title: d.nome,
@@ -62,10 +59,12 @@ function processarDados(dados){
               link: "https://example.com/shawnkemp"
             }
           ],
-          date: new Date(d.date),
+          date: inverteDate(d.date),
           image: d.img+" type='image/jpeg'"
         });
+        console.log(`Aqui: ${d.date}`);
       });
+      
       //console.log(feed.rss2());
     //console.log(JSON.stringify(dados))
     
