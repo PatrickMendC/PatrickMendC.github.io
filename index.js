@@ -21,16 +21,16 @@ const feed = new Feed({
     image: "http://example.com/image.png",
     favicon: "http://example.com/favicon.ico",
     copyright: "All rights reserved 2019, Ifms",
-    updated: new Date(2019, 7, 18), // optional, default = today
+    updated: new Date(), // optional, default = today
     generator: "awesome", // optional, default = 'Feed for Node.js'
     feedLinks: {
       json: "https://example.com/json",
       atom: "https://example.com/atom"
     },
     author: {
-      name: "John Doe",
-      email: "johndoe@example.com",
-      link: "https://example.com/johndoe"
+      name: "Patrick Mend",
+      email: "milhionniverso@gmail.com",
+      link: ""
     }
   });
 
@@ -107,7 +107,7 @@ const inverteDate = (data, hora) =>{
   novaHora = splitHora(hora);
   data_americana.setUTCHours(novaHora[0]);
   data_americana.setUTCMinutes(novaHora[1]);
-  console.log(`Hora split: ${novaHora[0]}`)
+  console.log(`Hora com ISO ${data_americana.toISOString()}`)
   return data_americana;
 }
 

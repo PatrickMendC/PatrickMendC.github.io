@@ -4,7 +4,7 @@
         <title>Noticias Ifms</title>
         <link>https://ifms.edu.br/noticias</link>
         <description>Este é um feed de noticias do ifms!</description>
-        <lastBuildDate>Sun, 18 Aug 2019 04:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2019 21:09:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>awesome</generator>
         <language>en</language>
@@ -22,7 +22,7 @@
             <pubDate>Thu, 08 Aug 2019 16:01:00 GMT</pubDate>
             <description><![CDATA[Estudantes e servidores irão escolher aqueles que conduzirão o processo de consulta aos cargos de reitor e diretor-geral dos dez campi]]></description>
             <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/votacao-para-formacao-das-comissoes-locais-ocorre-nesta-6a/07-12-2019-eleicoes-2019.png/@@images/d4ee2d87-c36a-49c4-ad9e-6852d6f1b1e1.png type='image/jpeg'"/>
+            <enclosure url="http://www.ifms.edu.br/noticias/votacao-para-comissoes-eleitorais-sera-nesta-sexta-feira/07-12-2019-eleicoes-2019.png/@@images/d4ee2d87-c36a-49c4-ad9e-6852d6f1b1e1.png type='image/jpeg'"/>
         </item>
         <item>
             <title><![CDATA[
