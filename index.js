@@ -107,7 +107,8 @@ const inverteDate = (data, hora) =>{
   novaHora = splitHora(hora);
   data_americana.setUTCHours(novaHora[0]);
   data_americana.setUTCMinutes(novaHora[1]);
-  console.log(`Hora com ISO ${data_americana.toISOString()}`)
+  console.log(`Hora com ISO ${data_americana.toISOString()}`);
+  data_americana.toISOString();
   return data_americana;
 }
 
