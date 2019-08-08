@@ -59,10 +59,11 @@ function processarDados(dados){
               link: "https://example.com/shawnkemp"
             }
           ],
-          date: inverteDate(d.date),
-          image: d.img+" type='image/jpeg'"
+          date: inverteDate(d.date, d.hora),
+          image: d.img+" type='image/jpeg'",
+          
         });
-        console.log(`Aqui: ${d.date}`);
+        console.log(`Aqui: ${typeof d.hora}`);
       });
       
       //console.log(feed.rss2());
@@ -96,12 +97,25 @@ function processarDados(dados){
 
 // O formato da data contida no argumento "data" é dd/mm/yyyy como uma String
 // inverteDate inverte a data brasileira para formato americano, e a retorna como uma Date
-const inverteDate = (data) =>{
+const inverteDate = (data, hora) =>{
+  console.log(`Data no inverte: ${data}`);
+  console.log(`Hora no inverte: ${hora}`);
   split = data.split('/');
-  novadata = split[1] + "/" +split[0]+"/"+split[2];
+  novadata = split[2] + "/" +split[1] + "/" +split[0]+"/";
   data_americana = new Date(novadata);
   
+  novaHora = splitHora(hora);
+  data_americana.setUTCHours(novaHora[0]);
+  data_americana.setUTCMinutes(novaHora[1]);
+  console.log(`Hora split: ${novaHora[0]}`)
   return data_americana;
+}
+
+const splitHora = (hora) =>{
+  split = hora.split('h');
+  nova_hora = [split[0], split[1]];
+
+  return nova_hora;
 }
 
 rp(options)
@@ -115,8 +129,10 @@ rp(options)
                 img: $(item).find('.tileImage').children('img').eq(0).attr('src'),
                 //date: $(item).find('.documentByLine, <i>').children('.summary-view-icon').text()
                 date: $(item).find('.summary-view-icon').first().text().replace(/(\n)/g, ""),
+                hora: $(item).find('.summary-view-icon').first().next().text().replace(/(\n)/g, ""),
             }
-            console.log("Formato data: "+inverteDate(title.date))
+            console.log(`Horas: ${title.hora}`)
+            console.log("Formato data: "+inverteDate(title.date, title.hora))
             if(title.nome !== "")
                 titles.push(title)
         })
