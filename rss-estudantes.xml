@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Editais Abertos</title>
+        <link>https://ifms.edu.br/noticias</link>
+        <description>Este é um feed de de editais abertos</description>
+        <lastBuildDate>Wed, 14 Aug 2019 21:14:01 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>awesome</generator>
+        <language>en</language>
+        <image>
+            <title>Editais Abertos</title>
+            <url>http://example.com/image.png</url>
+            <link>https://ifms.edu.br/noticias</link>
+        </image>
+        <copyright>All rights reserved 2019, Ifms</copyright>
+        <atom:link href="https://example.com/atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Edital nº 008/2018 - IFMS/PROEN - Certificação do Ensino Médio]]></title>
+            <description><![CDATA[Processo de Certificação de Conclusão do Ensino Médio ou Declaração Parcial de Proficiência com base no Exame Nacional para Certificação de Competências de Jovens e Adultos – Encceja]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[CERTIFICAÇÃO DO ENSINO MÉDIO - Edital nº 002/2017]]></title>
+            <description><![CDATA[Processo de certificação de conclusão do ensino médio ou declaração parcial de proficiência com base no Exame Nacional do Ensino Médio – Enem 2016.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+    </channel>
+</rss>

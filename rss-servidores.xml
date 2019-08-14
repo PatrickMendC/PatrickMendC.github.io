@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Editais Abertos</title>
+        <link>https://ifms.edu.br/noticias</link>
+        <description>Este é um feed de de editais abertos</description>
+        <lastBuildDate>Wed, 14 Aug 2019 21:17:54 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>awesome</generator>
+        <language>en</language>
+        <image>
+            <title>Editais Abertos</title>
+            <url>http://example.com/image.png</url>
+            <link>https://ifms.edu.br/noticias</link>
+        </image>
+        <copyright>All rights reserved 2019, Ifms</copyright>
+        <atom:link href="https://example.com/atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FORMAÇÃO PEDAGÓGICA PARA EAD - Edital nº 062/2019]]></title>
+            <description><![CDATA[Edital de Seleção de docentes do IFMS para participação na formação Pedagógica para EaD]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[PROFESSOR SUBSTITUTO - Edital nº 061/2019 – PSS – IFMS/DIGEP]]></title>
+            <description><![CDATA[Campo Grande, Coxim, Dourados e Ponta Porã - 10 vagas]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[Edital 060/2019 - Processo Seletivo 2019 Teste de Nivelamento do Curso de Formação Inicial e Continuada (FIC) em Inglês do campus Campo Grande]]></title>
+            <description><![CDATA[6 vagas para os servidores do IFMS]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[SELEÇÃO DE SERVIDORES DO IFMS PARA ELABORAÇÃO DE QUESTÕES DAS PROVAS DO EXAME DE SELEÇÃO DE 2020 – EDITAL 056/2019]]></title>
+            <description><![CDATA[SELEÇÃO DE SERVIDORES DO IFMS PARA ELABORAÇÃO DE QUESTÕES DAS PROVAS DO EXAME DE SELEÇÃO DE 2020 – EDITAL 056/2019]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+    </channel>
+</rss>

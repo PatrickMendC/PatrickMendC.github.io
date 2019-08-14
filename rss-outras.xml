@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Editais Abertos</title>
+        <link>https://ifms.edu.br/noticias</link>
+        <description>Este é um feed de de editais abertos</description>
+        <lastBuildDate>Wed, 14 Aug 2019 21:14:12 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>awesome</generator>
+        <language>en</language>
+        <image>
+            <title>Editais Abertos</title>
+            <url>http://example.com/image.png</url>
+            <link>https://ifms.edu.br/noticias</link>
+        </image>
+        <copyright>All rights reserved 2019, Ifms</copyright>
+        <atom:link href="https://example.com/atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ESTÁGIO INTERNO - Edital nº 059/2019]]></title>
+            <description><![CDATA[Processo Seletivo Interno de Estagiários - cadastro reserva para os dez campi]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[Edital nº 058/2019 - IFMS/PROEN -  Auxílio Monitoria]]></title>
+            <description><![CDATA[Programa de Monitoria para os estudantes dos Cursos Técnicos de Nível Médio e dos Cursos de Graduação 2019.2]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[VISITAS TÉCNICAS COM PAGAMENTO DE AUXÍLIOS A ESTUDANTES - EDITAL Nº 057/2019 - PROEN/IFMS]]></title>
+            <description><![CDATA[Processo seletivo para realização de visitas técnicas com pagamento de auxílios aos estudantes do IFMS]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[Edital nº 055/2019 - Incentivo à melhoria dos indicadores dos programas de pós-graduação]]></title>
+            <description><![CDATA[Viabilização de auxílio para incentivo à melhoria dos indicadores de pesquisa dos Programas de Pós-graduação Stricto Sensu do IFMS]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[FEIRAS DE CIÊNCIA E TECNOLOGIA 2019 - Edital nº 052/2019]]></title>
+            <description><![CDATA[Seleção de trabalhos de pesquisa para as Feiras de Ciência e Tecnologia organizadas pelo IFMS]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[Auxílio-viagem a estudantes para participação em eventos de cunho esportivo, cultural, de inclusão e diversidade - - Edital n° 027/2019]]></title>
+            <description><![CDATA[Seleção em fluxo contínuo para concessão de auxílio-viagem a estudantes do IFMS a fim de participarem em eventos ou ações externas de cunho esportivo, cultural, de inclusão e diversidade ou relacionadas à mobilidade internacional]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[Apoio para apresentação de trabalhos de extensão em eventos - Edital n° 023/2019]]></title>
+            <description><![CDATA[Edital de fluxo contínuo para concessão de apoio financeiro a servidores e estudantes extensionistas do IFMS para participação, com apresentação de trabalhos de extensão em eventos que venham a ocorrer entre 15.04.2019 a 15.12.2019.  ]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[ATIVIDADE DE EXTENSÃO - FLUXO CONTÍNUO. Edital n. 003/2019-PROEX/IFMS]]></title>
+            <description><![CDATA[Edital de fluxo contínuo destinado ao registro, à análise e ao acompanhamento das Atividades de Extensão a serem realizadas no período de 11 de fevereiro a 31 de dezembro de 2019, sem fomento institucional.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+        <item>
+            <title><![CDATA[CHAMADA PÚBLICA DE FLUXO CONTÍNUO PARA CAPTAÇÃO DE PARCERIAS - Edital 001/2019]]></title>
+            <description><![CDATA[Edital de chamada pública de fluxo contínuo com regras para realização de parcerias entre o IFMS e instituições interessadas no apoio de ações conjuntas]]></description>
+            <author>ifms@example.com (Ifms)</author>
+        </item>
+    </channel>
+</rss>
