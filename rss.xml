@@ -4,7 +4,7 @@
         <title>Noticias Ifms</title>
         <link>https://ifms.edu.br/noticias</link>
         <description>Este é um feed de noticias do ifms!</description>
-        <lastBuildDate>Thu, 08 Aug 2019 21:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2019 18:17:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>awesome</generator>
         <language>en</language>
@@ -15,6 +15,87 @@
         </image>
         <copyright>All rights reserved 2019, Ifms</copyright>
         <atom:link href="https://example.com/atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[
+                                        Última semana de submissão de trabalhos para feiras do IFMS
+                                    ]]></title>
+            <pubDate>Tue, 13 Aug 2019 16:57:00 GMT</pubDate>
+            <description><![CDATA[Podem participar estudantes do ensino fundamental e médio, de escolas públicas e privadas do estado. Prazo de inscrições termina na próxima terça-feira, 20.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/ultima-semana-de-submissao-de-trabalhos-para-feiras-do-ifms/73308961-7b6f-4842-8c66-30a707a3303e.png/@@images/1b3a4a14-c15a-437c-8ed3-ff42cc032fda.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        IFMS demonstra preocupação com ausência de debate sobre o Future-se
+                                    ]]></title>
+            <pubDate>Tue, 13 Aug 2019 09:31:00 GMT</pubDate>
+            <description><![CDATA[Termina nesta quinta-feira, 15, a consulta pública à proposta do Ministério da Educação (MEC) que visa reestruturar o financiamento do ensino em universidades e Institutos Federais.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/ifms-demonstra-preocupacao-com-ausencia-de-debate-sobre-o-future-se/mat-ifms-2.png/@@images/98e22180-55dc-4419-bb3d-e52d45b90fb7.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        Estudantes devem entregar documentação para seleção de assistência estudantil
+                                    ]]></title>
+            <pubDate>Mon, 12 Aug 2019 17:13:00 GMT</pubDate>
+            <description><![CDATA[Relação de inscrições homologadas foi publicada junto ao agendamento para entrega dos documentos exigidos. Edital oferta 63 auxílios para os campi Corumbá e Jardim.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/estudantes-devem-entregar-documentacao-para-selecao-de-assistencia-estudantil/a40fa0ef-3c7a-4dae-8f5a-1b6d80370307.png/@@images/2e36bf94-d864-4635-b799-7e7acc766f35.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        IFMS se torna polo de pesquisa na Região Norte do estado
+                                    ]]></title>
+            <pubDate>Mon, 12 Aug 2019 14:36:00 GMT</pubDate>
+            <description><![CDATA[Nos últimos anos, mais de 300 pesquisas desenvolvidas no Campus Coxim ajudaram a formar estudantes e trouxeram soluções para problemas da comunidade local.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="undefined type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        Divulgado resultado preliminar de votação para comissões eleitorais
+                                    ]]></title>
+            <pubDate>Mon, 12 Aug 2019 10:45:00 GMT</pubDate>
+            <description><![CDATA[Escolhidos irão conduzir a consulta aos cargos de reitor e diretor-geral dos dez campi do IFMS. Resultado final será divulgado na quinta-feira, 15.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/divulgado-resultado-preliminar-de-votacao-para-comissoes-eleitorais/28897622-5571-4f59-97ac-3f378edb11a2-1.png/@@images/d98d0370-095a-4e2d-bc7f-9b43ec8a2d6a.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        Abertas inscrições para 193 vagas de monitores
+                                    ]]></title>
+            <pubDate>Mon, 12 Aug 2019 08:57:00 GMT</pubDate>
+            <description><![CDATA[Podem se inscrever estudantes de cursos técnicos e da graduação dos dez campi do IFMS. Inscrições devem ser feitas até 16 de agosto.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/abertas-inscricoes-para-193-vagas-de-monitores/282e10de-10a1-4ce0-b718-03a91d19460f.png/@@images/61bfd178-474f-481d-a292-7ebeb718574f.png type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        Estudantes e servidores elegem representantes para comissões locais
+                                    ]]></title>
+            <pubDate>Fri, 09 Aug 2019 13:22:00 GMT</pubDate>
+            <description><![CDATA[Votação ocorre ao longo do dia nos campi e Reitoria. Resultado preliminar deve ser divulgado ainda nesta sexta-feira, 9.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="undefined type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        IFMS leiloa 12 toneladas de soja em Ponta Porã
+                                    ]]></title>
+            <pubDate>Fri, 09 Aug 2019 09:09:00 GMT</pubDate>
+            <description><![CDATA[Produção é excedente das ações de ensino, pesquisa e extensão desenvolvidas no campus. Os envelopes com as propostas serão abertos no dia 20 de agosto.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="undefined type='image/jpeg'"/>
+        </item>
+        <item>
+            <title><![CDATA[
+                                        IFMS abre dez vagas para professor substituto
+                                    ]]></title>
+            <pubDate>Fri, 09 Aug 2019 08:32:00 GMT</pubDate>
+            <description><![CDATA[Oferta é para Campo Grande, Coxim, Dourados e Ponta Porã, em diversas áreas de atuação. Inscrições podem ser feitas até 18 de agosto.]]></description>
+            <author>ifms@example.com (Ifms)</author>
+            <enclosure url="http://www.ifms.edu.br/noticias/ifms-abre-dez-vagas-para-professor-substituto-1/mat-2018-professor-substituto.png/@@images/f871f17f-1d33-482e-a73a-30213f13d70e.png type='image/jpeg'"/>
+        </item>
         <item>
             <title><![CDATA[
                                         Votação para comissões eleitorais será nesta sexta-feira
@@ -203,87 +284,6 @@
             <description><![CDATA[Processo seletivo oferta nove vagas em diversas áreas, nos municípios de Aquidauana, Coxim, Dourados, Jardim, Naviraí, Nova Andradina e Ponta Porã.]]></description>
             <author>ifms@example.com (Ifms)</author>
             <enclosure url="http://www.ifms.edu.br/noticias/terminam-no-domingo-as-inscricoes-para-selecao-de-professores-substitutos/mat-2018-professores-substitutos.png/@@images/ed51df58-64f2-4847-86b8-b0e2e70a378f.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Estudantes do IFMS apresentam mais de 80 trabalhos durante SBPC
-                                    ]]></title>
-            <pubDate>Wed, 24 Jul 2019 17:28:00 GMT</pubDate>
-            <description><![CDATA[Estudantes do ensino médio participam da Feira de Tecnologias, Engenharias e Ciências de Mato Grosso do Sul (Fetec/MS), este ano realizada durante maior evento científico da América Latina.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="undefined type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Submissão de trabalhos para feiras científicas segue até agosto
-                                    ]]></title>
-            <pubDate>Tue, 23 Jul 2019 16:00:00 GMT</pubDate>
-            <description><![CDATA[Podem participar estudantes do ensino fundamental, médio e técnico integrado. As Feiras de Ciência e Tecnologia do IFMS ocorrem de 30 de setembro a 5 de outubro.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/submissao-de-trabalhos-para-feiras-cientificas-segue-ate-agosto/06-19-2019-mat-feiras-ciencia-tecnologia.png/@@images/bc860468-aa33-4f47-935f-3b666427a089.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Divulgada chamada para matrículas em qualificação profissional
-                                    ]]></title>
-            <pubDate>Mon, 22 Jul 2019 15:04:00 GMT</pubDate>
-            <description><![CDATA[Matrículas nos cursos de Formação Inicial e Continuada (FIC) e de idiomas devem ser feitas de quarta a sexta-feira, 24 a 26, na Central de Relacionamento (Cerel) dos campi.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/divulgada-chamada-para-matriculas-em-cursos-de-qualificacao-profissional/06-12-2019-mat-2019-2-todos-cursos-fic.png/@@images/643a545e-a26a-4e0f-9816-176e1c0a19f7.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        II Seminário de Educação Profissional e Tecnológica será realizado em agosto
-                                    ]]></title>
-            <pubDate>Fri, 19 Jul 2019 11:49:00 GMT</pubDate>
-            <description><![CDATA[Evento marca o início das atividades da segunda turma do mestrado profissional oferecido pelo IFMS, em Campo Grande. Inscrições são gratuitas e devem ser feitas até 4 de agosto.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/ii-seminario-de-educacao-profissional-e-tecnologica-sera-realizado-em-agosto/07-17-2019-matiiseminario_ept.png/@@images/bfbf5ec3-1abf-4d55-b6c4-1b06d6a5e377.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Aberta seleção com nove vagas para professor substituto
-                                    ]]></title>
-            <pubDate>Fri, 19 Jul 2019 11:04:00 GMT</pubDate>
-            <description><![CDATA[São oferecidas vagas em diferentes áreas nos municípios de Aquidauana, Coxim, Dourados, Jardim, Naviraí, Nova Andradina e Ponta Porã. Inscrições até 28 de julho.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/aberta-selecao-com-oito-vagas-para-professor-substituto/mat-2018-professor-substituto.png/@@images/763f1566-ba67-4e09-983e-3878035dd526.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Divulgados resultados de sorteio para qualificação profissional e idiomas
-                                    ]]></title>
-            <pubDate>Thu, 18 Jul 2019 11:54:00 GMT</pubDate>
-            <description><![CDATA[Resultado preliminar traz a classificação de todos os inscritos. O resultado final e a primeira chamada estão previstos para segunda-feira, 22.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/divulgados-resultados-de-sorteio-para-cursos-de-qualificacao-profissional-e-idiomas/06-12-2019-mat-2019-2-todos-cursos-fic.png/@@images/6df27b33-1fda-48fd-b2f3-9582b7384b77.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        IFMS contribui para difusão da ciência e tecnologia no estado
-                                    ]]></title>
-            <pubDate>Thu, 18 Jul 2019 10:58:00 GMT</pubDate>
-            <description><![CDATA[Número de trabalhos apresentados em feiras aumentou 18,5% no ano passado. Ampliadas também as quantidades de bolsas e de registros de propriedade intelectual, aponta Relatório de Gestão 2018.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="undefined type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        IFMS leva minicursos e seminário à reunião da SBPC
-                                    ]]></title>
-            <pubDate>Wed, 17 Jul 2019 13:15:00 GMT</pubDate>
-            <description><![CDATA[Programação prevê minicursos sobre impressão 3D e empreendedorismo. Abertura da 71ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência será no domingo, 21, na UFMS.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/ifms-leva-minicursos-e-seminario-a-reuniao-da-sbpc/07-17-2019-sbpc-materia.png/@@images/c5b01658-e4ab-4136-8137-718fa83e5d06.png type='image/jpeg'"/>
-        </item>
-        <item>
-            <title><![CDATA[
-                                        Publicadas listas de inscritos para cursos de especialização
-                                    ]]></title>
-            <pubDate>Wed, 17 Jul 2019 12:54:00 GMT</pubDate>
-            <description><![CDATA[Cursos serão ofertados em Aquidauana, Campo Grande, Corumbá e Coxim. Seleção será feita por sorteio eletrônico até 25 de julho.]]></description>
-            <author>ifms@example.com (Ifms)</author>
-            <enclosure url="http://www.ifms.edu.br/noticias/publicadas-listas-de-inscritos-para-cursos-de-especializacao/07-03-2019-materia-especializacao-cursos.png/@@images/fae3b296-3d15-4c24-8c53-cb3ef40672ac.png type='image/jpeg'"/>
         </item>
     </channel>
 </rss>
